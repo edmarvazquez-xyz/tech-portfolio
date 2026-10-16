@@ -1,2 +1,9 @@
-# it-journal
-Personal IT learning journal, technical notes, troubleshooting, and hands-on labs.
+# IT Journal
+
+## About
+
+## Technical Notes
+
+## Hands-On Labs
+
+## Projects
